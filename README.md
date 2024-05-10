@@ -4,6 +4,7 @@
 
 ### 💻 Tech Stacks 💻
 <br><br>
+<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white">
 <img src="https://img.shields.io/badge/Java-4682B4?style=flat&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Mybatis-000000?style=flat&logo=Mybatis&logoColor=white"/></a>
