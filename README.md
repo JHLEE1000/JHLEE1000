@@ -30,7 +30,6 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Ajax-D3D3D3?style=flat&logo=Ajax&logoColor=white"/></a>
 <br>
 <br>
 #### Techs I've used least once
@@ -39,6 +38,7 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"> 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"> 
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Ajax-D3D3D3?style=flat&logo=Ajax&logoColor=white"/></a>
 <br><br>
 
 ***
