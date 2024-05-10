@@ -27,10 +27,10 @@
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipseidep&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/></a>
 <br>
+<br>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" /><a>
 <img src="https://img.shields.io/badge/Notion-007ACC?style=flat&logo=notione&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slacke&logoColor=white"/></a>
-<br>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/></a>
 <br>
 <br>
