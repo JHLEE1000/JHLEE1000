@@ -31,6 +31,8 @@
 <img src="https://img.shields.io/badge/Notion-007ACC?style=flat&logo=notione&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slacke&logoColor=white"/></a>
 <br>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/></a>
+<br>
 <br>
 #### Techs I've used least once
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white">
