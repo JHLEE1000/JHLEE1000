@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat&logo=Apache%20Tomcat&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Apache Maven-C71A36?style=flat&logo=Apachemaven&logoColor=white"/></a>
 <br>
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipseidep&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=spring boot&logoColor=white"> 
 <br>
