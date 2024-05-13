@@ -50,7 +50,7 @@
         <img src="https://img.shields.io/badge/iforezen@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"> 
     </a>
 </div>
-<br><br><br>
+<br><br>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer)
 
